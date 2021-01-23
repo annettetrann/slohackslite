@@ -1,9 +1,9 @@
- # Socket client example in python
+ # Socket client example in python2
 
 import socket
 import sys  
 
-host = 'www.pythonprogramminglanguage.com'
+host = raw_input('Enter host URL: ')
 port = 80  # web
 
 # create socket
