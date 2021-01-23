@@ -3,7 +3,7 @@
 import socket
 import sys  
 
-host = raw_input('Enter host URL: ')
+host = raw_input('Enter host URL: ') # eg.www.pythonprogramminglanguage.com
 port = 80  # web
 
 # create socket
